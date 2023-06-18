@@ -1,0 +1,3 @@
+vpc is a logically isolated area where we can create our resuorces using the virtual network we have created. vpc has many 
+subnets,ig,nat gate way
+and some other netwok resuorces
