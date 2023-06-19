@@ -1,1 +1,2 @@
 hii all vpc stands for virtual private cloud
+it is network related configuaration for aws
