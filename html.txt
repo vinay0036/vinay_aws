@@ -1,0 +1,3 @@
+mkdir aws_demo
+cd aws_demo/
+nano t2 
